@@ -1,0 +1,2 @@
+{"idx":0,"problem":"Find the value of $x$ that satisfies the equation $2x + 3 = 7$.","solution":"Subtract 3 from both sides: $2x = 4$. Then divide by 2: $x = 2$.","answer":"2","level":"easy","type":"algebra"}
+{"idx":1,"problem":"What is the sum of the first 10 positive integers?","solution":"Using the formula for arithmetic series: $S = \\frac{n(n+1)}{2} = \\frac{10 \\times 11}{2} = 55$.","answer":"55","level":"medium","type":"number_theory"}
