@@ -1,10 +1,5 @@
 <p align="center">
   <h1 align="center"><strong>GUARD: Guided Uncertainty-Aware Reasoning with Decision Control</strong></h1>
-  <p align="center">
-    <strong>Supplementary Code</strong>
-    <br>
-    <em>Anonymous Submission for Double-Blind Review</em>
-  </p>
 </p>
 
 ---
@@ -14,7 +9,7 @@
 This supplementary code repository implements **GUARD (Guided Uncertainty-Aware Reasoning with Decision Control)**, an adaptive inference-time framework for large language models. GUARD uses entropy monitoring at key decision points to trigger targeted branching search when the model exhibits high uncertainty, enabling more reliable and efficient reasoning.
 
 <p align="center">
-  <img src="./img/method_overview.pdf" alt="GUARD Method Overview" width="800"/>
+  <img src="./img/method_overview.png" alt="GUARD Method Overview" width="800"/>
   <br>
   <em>Figure 1: Overview of the GUARD Inference Framework</em>
 </p>
